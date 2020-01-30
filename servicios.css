@@ -1,0 +1,57 @@
+body {
+	background-color: #F73bb9;
+}
+#contenedor {
+	width: 960px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+header {
+	width: 960px;
+	height: 160px;
+	background: #31b404;
+    margin-bottom: 40px;
+}
+#marca {
+	width: 500px;
+	height: 90px;
+	padding:10px;
+}
+nav#botonera {
+	width: 960px;
+	height: 40px;
+	text-align: center;
+	margin-top: 40px; 
+}
+nav#botonera ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+ }
+nav#botonera li {
+	display: inline;
+}
+nav#botonera li a {
+	display: inline-block;
+	padding-left: 10px;
+	color: #ff4000;
+	font: bold 1.8em Chiller, Mistral;
+	text-decoration: none;
+}
+nav#botonera li a:hover {
+	color: #f7be81;
+}
+
+h1 {
+	font: normal bold 160% Broadway, Calibri;
+	color: #f5da81;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: #31b404;
+	font: bold 30px Cooper Black, sans-serif;
+}
